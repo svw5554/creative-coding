@@ -1,0 +1,163 @@
+.background-image {
+    position: relative;
+    background-image: url(img/mapit.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100vh;
+}
+
+.buttonE {
+    position: absolute;
+    top: 68%;
+    left: 350px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(201, 185, 173, 0.826);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: .4s;
+}
+.buttonE:hover{
+    color: cornflowerblue;
+    transition: .4s;
+}
+
+.buttonF {
+    position: absolute;
+    top: 38%;
+    left: 680px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(201, 185, 173, 0.826);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.buttonF:hover{
+    color: rgba(140, 55, 168, 0.841);
+    transition: .4s;
+}
+
+.buttonS {
+    position: absolute;
+    top: 85%;
+    left: 750px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(201, 185, 173, 0.826);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.buttonS:hover{
+    color: rgba(245, 245, 38, 0.856);
+    transition: .4s;
+}
+
+.buttonU {
+    position: absolute;
+    top: 43%;
+    left: 400px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(201, 185, 173, 0.826);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.buttonU:hover{
+    color: rgba(214, 54, 59, 0.856);
+    transition: .4s;
+}
+
+.buttonUA {
+    position: absolute;
+    top: 52%;
+    left: 880px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(201, 185, 173, 0.826);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.buttonUA:hover{
+    color: rgba(202, 148, 39, 0.856);
+    transition: .4s;
+}
+
+.buttonJ {
+    position: absolute;
+    top: 40%;
+    left: 1220px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(201, 185, 173, 0.826);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.buttonJ:hover{
+    color: rgba(215, 68, 205, 0.618);
+    transition: .4s;
+}
+
+.buttonA {
+    position: absolute;
+    top: 80%;
+    left: 1200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(201, 185, 173, 0.826);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.buttonA:hover{
+    color: rgba(8, 4, 187, 0.854);
+    transition: .4s;
+}
