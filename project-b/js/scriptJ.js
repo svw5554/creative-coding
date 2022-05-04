@@ -4,17 +4,17 @@ let stamp;
 let bg;
 
 function preload() {
-    images[0]=loadImage('japan1.png');
-    images[1]=loadImage('japan2.png');
-    images[2]=loadImage('japan3.png');
-    images[3]=loadImage('japan4.png');
-    images[4]=loadImage('japan5.png');
-    images[5]=loadImage('japan6.png');
-    images[6]=loadImage('japan7.png');
-    images[7]=loadImage('japan8.png');
-    images[8]=loadImage('japan9.png');
-    images[9]=loadImage('japan10.png');
-    bg = loadImage('passport1.png');
+    images[0]=loadImage('js/japanimg/japan/japan1.png');
+    images[1]=loadImage('js/japanimg/japan/japan2.png');
+    images[2]=loadImage('js/japanimg/japan/japan3.png');
+    images[3]=loadImage('js/japanimg/japan/japan4.png');
+    images[4]=loadImage('js/japanimg/japan/japan5.png');
+    images[5]=loadImage('js/japanimg/japan/japan6.png');
+    images[6]=loadImage('js/japanimg/japan/japan7.png');
+    images[7]=loadImage('js/japanimg/japan/japan8.png');
+    images[8]=loadImage('js/japanimg/japan/japan9.png');
+    images[9]=loadImage('js/japanimg/japan/japan10.png');
+    bg = loadImage('js/japanimg/japan/passport1.png');
   }
 
 function setup() {
