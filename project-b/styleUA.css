@@ -241,7 +241,7 @@ h5 {
 .head h2:before {
     position: absolute;
     content: "";
-    width: 320px;
+    width: 250px;
     height: 2px;
     background-color: rgba(202, 148, 39, 0.856);
     bottom: 0;
