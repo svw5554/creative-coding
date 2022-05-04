@@ -235,7 +235,7 @@ h5 {
     color: white;
     padding-bottom: 10px;
     font-family: 'M PLUS 1p', sans-serif;
-    text-shadow: 1px 5px 2px #f099f6b3; 
+    text-shadow: 1px 5px 2px rgba(140, 55, 168, 0.841); 
 }
 
 .p5jsH p{
