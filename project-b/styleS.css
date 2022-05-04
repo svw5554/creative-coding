@@ -184,10 +184,6 @@ h5 {
     padding-bottom: 40px;
 }
 
-.single-menu:nth-child(5), .single-menu:nth-child(6) {
-    border-bottom: 0;
-}
-
 .single-menu {
     display: flex;
     flex-direction: row;

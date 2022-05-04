@@ -1,15 +1,17 @@
 .background-image {
     position: relative;
     background-image: url(img/mapit.jpeg);
+    margin-left: auto;
+    margin-right: auto;
     background-size: cover;
     background-repeat: no-repeat;
-    width: 100px;
-    height: 100vh;
+    width: 1400px;
+    height: 800px;
 }
 
 .buttonE {
     position: absolute;
-    top: 68%;
+    top: 500px;
     left: 350px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgba(201, 185, 173, 0.826);
@@ -32,8 +34,8 @@
 
 .buttonF {
     position: absolute;
-    top: 38%;
-    left: 680px;
+    top: 273px;
+    left: 660px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgba(201, 185, 173, 0.826);
     border: none;
@@ -54,8 +56,8 @@
 
 .buttonS {
     position: absolute;
-    top: 85%;
-    left: 750px;
+    top: 625px;
+    left: 716px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgba(201, 185, 173, 0.826);
     border: none;
@@ -76,8 +78,8 @@
 
 .buttonU {
     position: absolute;
-    top: 43%;
-    left: 400px;
+    top: 310px;
+    left: 300px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgba(201, 185, 173, 0.826);
     border: none;
@@ -120,8 +122,8 @@
 
 .buttonJ {
     position: absolute;
-    top: 40%;
-    left: 1220px;
+    top: 310px;
+    left: 1180px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgba(201, 185, 173, 0.826);
     border: none;
@@ -142,8 +144,8 @@
 
 .buttonA {
     position: absolute;
-    top: 80%;
-    left: 1200px;
+    top: 610px;
+    left: 1150px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgba(201, 185, 173, 0.826);
     border: none;

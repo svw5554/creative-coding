@@ -34,7 +34,7 @@
 
 .about-text {
     width: 550px;
-    font-family: 'Assistant', sans-serif;
+   font-family: 'Assistant', sans-serif;
 }
 
 .main {
@@ -183,10 +183,6 @@ h5 {
     flex-basis: 580px;
     margin-bottom: 20px;
     padding-bottom: 40px;
-}
-
-.single-menu:nth-child(5), .single-menu:nth-child(6) {
-    border-bottom: 0;
 }
 
 .single-menu {
