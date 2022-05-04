@@ -14,7 +14,7 @@ function preload() {
     images[7]=loadImage('js/japanimg/japan/japan8.png');
     images[8]=loadImage('js/japanimg/japan/japan9.png');
     images[9]=loadImage('js/japanimg/japan/japan10.png');
-    bg = loadImage('js/japanimg/japan/passport1.png');
+    bg = loadImage('js/japanimg/passport1.png');
   }
 
 function setup() {
