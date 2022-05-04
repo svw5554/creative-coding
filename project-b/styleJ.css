@@ -226,31 +226,43 @@ h5 {
     font-size: 37px;
 }
 
-.p5jsH h2{
-    padding-left: 35%;
-    padding-right: 35%;
-    text-align: center;
-    text-transform: capitalize;
-    font-size: 55px;
+.head h2{
     color: white;
+    font-size: 55px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+    position: relative;
     padding-bottom: 10px;
-    font-family: 'M PLUS 1p', sans-serif;
-    text-shadow: 1px 5px 2px #f099f6b3; 
+    font-family: 'M PLUS 1p', sans-serif; 
+    text-shadow: 1px 5px 2px #f099f6ef;
 }
 
-.p5jsH p{
-    padding-left: 25%;
-    padding-right: 25%;
-    text-align:center;
-    text-transform: capitalize;
-    font-size: 20px;
+.head h2:before {
+    position: absolute;
+    content: "";
+    width: 320px;
+    height: 2px;
+    background-color: #f099f6ef;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.head p{
     color: white;
-    padding-bottom: 10px;
+    font-size: 25px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+    position: relative;
+    padding-bottom: 2px;
     font-family: 'Assistant', sans-serif;
 }
 
-#p5-canva {
-    margin-bottom: 20px;
-    padding-left: 25%;
-    padding-right: 25%;
+#p5-canva{
+    position: relative;
+    left: calc(50% - 350px);
+    bottom: calc(50% - 350px);
+    padding-bottom: 20px;
 }
